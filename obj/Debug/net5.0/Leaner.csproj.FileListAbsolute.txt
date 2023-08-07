@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Leaner\bin\Debug\net5.0\Leaner.exe
+C:\Users\USER\Desktop\Leaner\bin\Debug\net5.0\Leaner.deps.json
+C:\Users\USER\Desktop\Leaner\bin\Debug\net5.0\Leaner.runtimeconfig.json
+C:\Users\USER\Desktop\Leaner\bin\Debug\net5.0\Leaner.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Leaner\bin\Debug\net5.0\Leaner.dll
+C:\Users\USER\Desktop\Leaner\bin\Debug\net5.0\ref\Leaner.dll
+C:\Users\USER\Desktop\Leaner\bin\Debug\net5.0\Leaner.pdb
+C:\Users\USER\Desktop\Leaner\obj\Debug\net5.0\Leaner.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Leaner\obj\Debug\net5.0\Leaner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Leaner\obj\Debug\net5.0\Leaner.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Leaner\obj\Debug\net5.0\Leaner.AssemblyInfo.cs
+C:\Users\USER\Desktop\Leaner\obj\Debug\net5.0\Leaner.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Leaner\obj\Debug\net5.0\Leaner.dll
+C:\Users\USER\Desktop\Leaner\obj\Debug\net5.0\ref\Leaner.dll
+C:\Users\USER\Desktop\Leaner\obj\Debug\net5.0\Leaner.pdb
+C:\Users\USER\Desktop\Leaner\obj\Debug\net5.0\Leaner.genruntimeconfig.cache
